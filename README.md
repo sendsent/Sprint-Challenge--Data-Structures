@@ -9,9 +9,9 @@
    - **Stack**
    - **Queue**
 2. What is the retreival time complexity for the following data structures?
-   - **Linked List**
-   - **Hash Table**
-   - **Binary Search Trees**
+   - **Linked List** 
+   - **Hash Table** 
+   - **Binary Search Trees** 
 2. What are some advantages to using a Hash Tables over an array in JavaScript?
 
 ## Challenge
